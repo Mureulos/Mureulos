@@ -1,11 +1,12 @@
-### Hi, I'm mureulos! Beginner front-end dev with a dream to grow and become my best self👋
+# Opa, eu sou o Murilo 👋🏾
 
+Bem-vindo ao meu perfil do GitHub!
 
-- 🔭 Looking for internship in the area
-- 🌱 I’m currently learning JS, Java, MySql
-- 👯 I try to collaborate in everything that is possible.
+Jovem dev front-end com o sonho de crescer e tornar o melhor de mim.
 
-<!--
-**Mureulos/Mureulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Um pouquinho sobre mim:
 
-A little bit about me:
+- 🔭 Atualmente procuro por estagio na area.
+- 🌱 Aprendendo JS, Java e MySql.
+- 💻 Comecei a programar em 2020 por curiosidade
+- ⚡ Hobbies: 🎸📺 🎮
