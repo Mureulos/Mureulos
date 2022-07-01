@@ -1,13 +1,13 @@
-# Opa, eu sou o Murilo 👋🏾
+# Hey, I'm Murilo 👋🏾
 
-Bem-vindo ao meu perfil do GitHub!
+Welcome to my GitHub profile!
 
-Jovem dev front-end com o sonho de crescer e tornar o melhor de mim.
+A young front-end dev with a dream to grow and become the best of me.
 
-## Um pouquinho sobre mim:
+## A little bit about me:
 
-- 🙇🏾‍♂️ Estudo desenvolvimento de sistemas na Etec de Itaquera
-- 🔭 Atualmente procuro por estagios na area
-- 🌱 No momento estou aprendendo JS, Java e MySql
-- 💻 Comecei a programar em 2020 por curiosidade
+- 🙇🏾‍♂️ Study development of systems at Etec de Itaquera
+- 🔭 Currently looking for internships in the field
+- 🌱 At the moment I am learning JS, Java and MySql
+- 💻 I started programming in 2020 out of curiosity
 - ⚡ Hobbies: 🎸📺 🎮
