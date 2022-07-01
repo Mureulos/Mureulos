@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 A young front-end dev with a dream to grow and become the best of me.
 
-## A little bit about me
+## A little bit about me:
 
 - 🙇🏾‍♂️ Study development of systems at Etec de Itaquera
 - 🔭 Currently looking for internships in the field
