@@ -8,6 +8,6 @@ Jovem dev front-end com o sonho de crescer e tornar o melhor de mim.
 
 - 🙇🏾‍♂️ Estudo desenvolvimento de sistemas na Etec de Itaquera
 - 🔭 Atualmente procuro por estagios na area
-- 🌱 Aprendendo JS, Java e MySql
+- 🌱 No momento estou aprendendo JS, Java e MySql
 - 💻 Comecei a programar em 2020 por curiosidade
 - ⚡ Hobbies: 🎸📺 🎮
