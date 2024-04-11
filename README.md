@@ -6,8 +6,8 @@ A young front-end dev with a dream to grow and become the best of me.
 
 ## A little bit about me:
 
-- 🙇🏾‍♂️ Study development of systems at Etec de Itaquera
-- 🔭 Currently looking for internships in the field
-- 🌱 At the moment I am learning React
+- 🙇🏾‍♂️ Systems development technician graduated from Etec de Itaquera I
+- 🔭 Currently working in a technology company as a young apprentice
+- 🌱 At the moment I am learning Angular, MySQL and Saas
 - 💻 I started programming in 2020 out of curiosity
-- ⚡ Hobbies: 🎸📺 🎮
+- ⚡ Hobbies: 🎸📺🎮🏋🏾‍♂️
