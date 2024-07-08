@@ -17,4 +17,4 @@ A young front-end dev with a dream to grow and become the best of me.
 - ⚡ Hobbies: 📺🎮🏋🏾‍♂️
 
 ## Contribution graph:
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Mureulos/Mureulos/blob/output/github-contribution-grid-snake.gif)
