@@ -10,7 +10,7 @@ A young front-end dev with a dream to grow and become the best of me.
   
 - 🔭 Currently working in a technology company as a young apprentice
   
-- 🌱 At the moment I am learning Angular
+- 🌱 At the moment I'm studying Front-end, focusing on Angular
   
 - 💻 I started programming in 2020 out of curiosity
   
