@@ -14,7 +14,7 @@ A young front-end dev with a dream to grow and become the best of me.
   
 - 💻 I started programming in 2020 out of curiosity
   
-- ⚡ Hobbies: 📺🎮🏋🏾‍♂️
+- ⚡ Hobbies: 📺🎮🏋🏾‍♂️🎶
 
 ## Contribution graph:
 ![snake gif](https://github.com/Mureulos/Mureulos/blob/output/github-contribution-grid-snake.gif)
