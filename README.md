@@ -6,7 +6,9 @@ A young front-end dev with a dream to grow and become the best of me.
 
 ## A little bit about me:
 
-- 🙇🏾‍♂️ Systems development technician graduated from Etec de Itaquera I
+- 👨🏾‍💻 Graduating in systems analysis and development at Fatec SP
+
+- 👨🏾‍🎓 Systems development technician graduated from Etec de Itaquera I
   
 - 🔭 Currently working in a technology company as a young apprentice
   
