@@ -18,5 +18,7 @@ A young front-end dev with a dream to grow and become the best of me.
   
 - ⚡ Hobbies: 📺🎮🏋🏾‍♂️🎶
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,ts,angular,react,tailwind,dotnet,java)](https://skillicons.dev)
+
 ## Contribution graph:
 ![snake gif](https://github.com/Mureulos/Mureulos/blob/output/github-contribution-grid-snake.gif)
