@@ -10,7 +10,7 @@ A young front-end dev with a dream to grow and become the best of me.
 
 - 👨🏾‍🎓 Systems development technician graduated from Etec de Itaquera I
   
-- 🔭 Currently working in a technology company as a young apprentice
+- 🔭 Currently working in a technology company as a assistant developer
   
 - 🌱 At the moment I'm studying Web development, focusing on Angular, C# and SQL Server
   
