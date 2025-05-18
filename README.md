@@ -25,4 +25,14 @@ A young front-end dev with a dream to grow and become the best of me.
 </div>
 
 ##
-[![My Skills](https://skillicons.dev/icons?i=ts,angular,react,tailwind,dotnet,java)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,angular,react,tailwind"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,c"/>
+  </a>
+</p>
