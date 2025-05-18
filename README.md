@@ -18,5 +18,11 @@ A young front-end dev with a dream to grow and become the best of me.
   
 - ⚡ Hobbies: 📺🎮🏋🏾‍♂️🎶
 
+## Stats:
+<div display="flex" align-items="center">
+  <img width="45%" height="400px" src="https://github-readme-stats.vercel.app/api?username=mureulos&theme=github_dark">
+  <img width="50%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mureulos&theme=github_dark">
+</div>
+
 ##
 [![My Skills](https://skillicons.dev/icons?i=ts,angular,react,tailwind,dotnet,java)](https://skillicons.dev)
