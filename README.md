@@ -20,7 +20,7 @@ A young front-end dev with a dream to grow and become the best of me.
 
 ## 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,angular,react,tailwind,cs,java,c"/>
+  <img src="https://skillicons.dev/icons?i=ts,angular,react,tailwind,cs"/>
 </a>
 
 ## Stats:
